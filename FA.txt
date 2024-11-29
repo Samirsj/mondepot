@@ -1,3 +1,7 @@
 Bonjour Michel 
+<<<<<<< HEAD
 
 Conflit
+=======
+Au revoir Michel
+>>>>>>> 1a46ddd711fa2087593786e99017fee9b37d0ad2
